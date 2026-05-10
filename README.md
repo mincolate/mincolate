@@ -1,16 +1,13 @@
-## Hi there 👋
+<img width="736" height="264" alt="IMG_20260510_120404" src="https://github.com/user-attachments/assets/9f4e2957-b88e-4d50-9c04-41c88084aa14" />
+<img width="736" height="599" alt="IMG_20260510_132519" src="https://github.com/user-attachments/assets/149f5101-3793-4b9e-93f5-7b2fc1241076" />
+<img width="1500" height="500" alt="Untitled404_20260510133030" src="https://github.com/user-attachments/assets/6db437e1-47dd-40f3-a44b-cb375264d4de" />
 
-<!--
-**mincolate/mincolate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img width="1500" height="500" alt="Untitled404_20260510134645" src="https://github.com/user-attachments/assets/f3de418f-d0a9-483d-b7f3-b25e925ad223" />](https://github.com/nyanmeowmeow)
+<img width="1500" height="254" alt="IMG_20260510_134943" src="https://github.com/user-attachments/assets/298a7fc4-795d-4eee-8d24-58da301c944f" />
+[<img width="1500" height="500" alt="Untitled404_20260510135326" src="https://github.com/user-attachments/assets/a7c2b32a-cf19-479b-ae35-5fc0eb26b305" />](https://github.com/vaelous)
+<img width="1500" height="254" alt="IMG_20260510_134943" src="https://github.com/user-attachments/assets/ab51d240-7df4-4918-8599-b4fe0160f675" />
+[<img width="1500" height="500" alt="Untitled404_20260510135628" src="https://github.com/user-attachments/assets/ab986383-3577-406f-9e60-a19ed79688e1" />](https://github.com/Gajushi-TsM)
+<img width="1500" height="254" alt="IMG_20260510_134943" src="https://github.com/user-attachments/assets/34800b4f-9729-4add-8d65-c90440eaecda" />
+<img width="1500" height="500" alt="Untitled404_20260510141314" src="https://github.com/user-attachments/assets/95d63a78-e38e-4e56-8331-46f67c57e60f" />
+<img width="1500" height="500" alt="Untitled404_20260510141527" src="https://github.com/user-attachments/assets/52e751db-4255-4589-b840-883acc4a80f3" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
