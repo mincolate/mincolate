@@ -1,4 +1,4 @@
-<img width="736" height="264" alt="IMG_20260510_120404" src="https://github.com/user-attachments/assets/9f4e2957-b88e-4d50-9c04-41c88084aa14" />
+<img width="500" height="240" alt="Paris" src="https://github.com/user-attachments/assets/1205ad80-0e4f-46b9-a592-170fde31cfeb" />
 <img width="736" height="599" alt="IMG_20260510_132519" src="https://github.com/user-attachments/assets/149f5101-3793-4b9e-93f5-7b2fc1241076" />
 <img width="736" height="139" alt="IMG_20260518_112713" src="https://github.com/user-attachments/assets/fe9ae154-e6cd-4cd4-a1ed-148347fae84a" />
 
